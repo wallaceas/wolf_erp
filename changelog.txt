@@ -1,0 +1,6 @@
+[v1.0.5] - 23/10/2023
+- Adicionado módulo de Auditoria (Logs).
+- Corrigido erro ao salvar fornecedor sem CNPJ.
+
+[v1.0.0] - 01/01/2023
+- Lançamento inicial do Wolf ERP.
